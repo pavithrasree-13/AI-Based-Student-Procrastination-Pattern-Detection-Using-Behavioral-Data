@@ -1,0 +1,2 @@
+# AI-Based-Student-Procrastination-Pattern-Detection-Using-Behavioral-Data
+An AI-driven system using TensorFlow and Deep Learning to detect student procrastination levels (Low, Medium, High). It analyzes behavioral data such as study hours, social media usage, screen time, and academic performance through a multi-layer neural network architecture. Includes data preprocessing, feature scaling, and categorization logic.
